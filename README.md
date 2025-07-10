@@ -28,6 +28,10 @@
 
 **OpenCV**: For color detection and image processing.
 
+![IMG-20250710-WA0014](https://github.com/user-attachments/assets/69f0a911-1aff-4bd2-b14e-2954cd7a5d59)
+
+![IMG-20250710-WA0014](https://github.com/user-attachments/assets/b86511e5-5b58-406a-b9c1-6e292a478704)
+
 
 
 
