@@ -1,8 +1,8 @@
-SeeForMe
+<h1>SeeForMe</h1>
 
 **SeeForMe** is an AI-powered accessibility mobile application designed to assist visually impaired individuals in navigating the world around them. The app leverages real-time object detection, currency recognition, color detection, and document scanning, all with voice guidance for hands-free usage.
 
- #**Features**
+<h1>Features</h1>
 
  **Object Detection**: Real-time identification of objects using AI models and voice feedback.
 
@@ -16,7 +16,7 @@ SeeForMe
  
 **User-Friendly UI**: Simplified interface tailored for accessibility.
 
-**Tech Stack**
+<h1>Tech Stack</h1>
 
 **Flutter**: Cross-platform mobile app development.
 
