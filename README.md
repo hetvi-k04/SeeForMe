@@ -1,37 +1,36 @@
-<h1>SeeForMe</h1>
+SeeForMe 👁️‍🗨️
+SeeForMe is an AI-powered assistive mobile app built for visually impaired individuals to navigate the world around them with confidence and independence.
 
-**SeeForMe** is an AI-powered accessibility mobile application designed to assist visually impaired individuals in navigating the world around them. The app leverages real-time object detection, currency recognition, color detection, and document scanning, all with voice guidance for hands-free usage.
+📱 Features
+🔴 Real-time Color Detection — Detects object colors via camera and speaks them aloud.
+📖 Reading Assistance — Reads printed text in real-time using text-to-speech.
+💰 Indian Currency Recognition — Identifies INR notes and announces the total.
+👤 Face Recognition — Recognizes known faces and speaks their name & emotion.
+🧠 AI-Powered Virtual Assistant — Describes surroundings using object detection.
+🖐️ Gesture Recognition — Enables AI-based hand gesture communication.
+📞 Live Video Assistance — Video call with sighted helpers for guidance.
+🧩 Explore Mode — Understand nearby objects and obstacles via voice feedback.
+🖼️ Screenshots
+Home Screen	Color Detection	Currency Detection
+Home	Color	Currency
+(You can replace the image paths with actual links or upload images inside an images/ folder)
 
-<h1>Features</h1>
-
- **Object Detection**: Real-time identification of objects using AI models and voice feedback.
-
- **Currency Recognition**: Recognizes different currencies and announces the denomination.
-
- **Color Detection**: Detects and speaks out colors in the surroundings.
-
- **Document Scanner with OCR**: Scans text from documents and reads it aloud using text-to-speech (TTS).
-
- **Voice-Guided Navigation**: Provides intuitive voice feedback and supports gesture-based controls.
- 
-**User-Friendly UI**: Simplified interface tailored for accessibility.
-
-<h1>Tech Stack</h1>
-
-**Flutter**: Cross-platform mobile app development.
-
-**Flask API**: Backend for AI model inference.
-
-**YOLOv8 / Roboflow / EasyOCR**: AI models for object & currency detection, OCR.
-
-**Google ML Kit / Tesseract OCR**: For real-time text recognition.
-
-**Text-to-Speech (TTS)**: For auditory feedback.
-
-**OpenCV**: For color detection and image processing.
-
-
-
-
-
-
+⚙️ Tech Stack
+📱 React Native + Expo
+🧠 Python + Flask (backend for model serving)
+🎨 TensorFlow / Mediapipe / OpenCV
+🗂️ MongoDB (for face & user data)
+🗣️ Text-to-Speech APIs
+🔍 Image Processing & CV Models
+🚀 Getting Started
+Frontend Setup
+cd SeeForMe
+npm install
+npx expo start
+Backend Setup
+cd backend
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
+Home Screen Object Recognition Currency Detection Color Detection Scan and Read
