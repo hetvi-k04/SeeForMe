@@ -12,8 +12,7 @@
 - 👤 **Face Recognition** — Recognizes known faces and speaks their name & emotion.
 - 🧠 **AI-Powered Virtual Assistant** — Describes surroundings using object detection.
 - 🖐️ **Gesture Recognition** — Enables AI-based hand gesture communication.
-- 📞 **Live Video Assistance** — Video call with sighted helpers for guidance.
-- 🧩 **Explore Mode** — Understand nearby objects and obstacles via voice feedback.
+
 
 ---
 
