@@ -15,7 +15,11 @@
 
 
 ---
+## 🖼️ Screenshots
 
+| Home Screen | Color Detection | Currency Detection | 
+|-------------|------------------|---------------------|
+| ![Home](images/mp1.jpg) | ![Color](images/mp3.jpg) | ![Currency](images/mp4.jpg) |
 
 ## ⚙️ Tech Stack
 
