@@ -15,9 +15,10 @@
 ---
 ## 🖼️ Screenshots
 
-| Home Screen | Color Detection | Currency Detection | 
-|-------------|------------------|---------------------|
-| ![Home](images/mp1.jpg) | ![Color](images/mp3.jpg) | ![Currency](images/mp4.jpg) |
+| Home Screen | Color Detection | Currency Detection | Real-Time Currency Detection | Object Detection | Color Detection |
+|-------------|------------------|---------------------|---------------------|---------------------|---------------------|
+| ![Home](images/mp1.jpg) | ![Color](images/mp3.jpg) | ![Currency](images/mp4.jpg) | ![Real-Time Currency Detection](images/mp6.jpeg) |![Object Detection](images/mp7.jpeg) | ![Color Detection](images/mp8.jpeg)
+
 
 ## ⚙️ Tech Stack
 
