@@ -9,13 +9,15 @@
 - 🔴 **Real-time Color Detection** — Detects object colors via camera and speaks them aloud.
 - 📖 **Reading Assistance** — Reads printed text in real-time using text-to-speech.
 - 💰 **Indian Currency Recognition** — Identifies INR notes and announces the total.
-- 👤 **Face Recognition** — Recognizes known faces and speaks their name & emotion.
-- 🧠 **AI-Powered Virtual Assistant** — Describes surroundings using object detection.
 - 🖐️ **Gesture Recognition** — Enables AI-based hand gesture communication.
 
 
 ---
+## 🖼️ Screenshots
 
+| Home Screen | Color Detection | Currency Detection | 
+|-------------|------------------|---------------------|
+| ![Home](images/mp1.jpg) | ![Color](images/mp3.jpg) | ![Currency](images/mp4.jpg) |
 
 ## ⚙️ Tech Stack
 
