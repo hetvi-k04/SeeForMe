@@ -3,7 +3,6 @@
 **SeeForMe** is an AI-powered assistive mobile app built for visually impaired individuals to navigate the world around them with confidence and independence.
 
 ---
-"C:\Users\Hetvi\Downloads\mp1.jpg"
 
 ## 📱 Features
 
